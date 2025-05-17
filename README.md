@@ -1,9 +1,56 @@
-<h1 align="center">Hi 👋, I'm Merala Rakesh</h1>
-<h3 align="center">Aspiring Full Stack Developer | Java • PHP • SQL • Web Dev</h3>
+<h1 align="center" style="font-weight: 900; font-size: 3.5rem; background: linear-gradient(90deg, #007CF0, #00DFD8, #7928CA, #FF0080); background-clip: text; -webkit-background-clip: text; color: transparent; animation: gradientAnimation 8s ease infinite;">
+  Hi <span style="animation: wave 2s infinite;">👋</span>, I'm <span style="color:#FF0080;"> RAKESH </span>
+</h1>
+
+<h3 align="center" style="font-weight: 600; font-size: 1.8rem; background: linear-gradient(45deg, #7928CA, #FF0080); -webkit-background-clip: text; color: transparent;">
+  Aspiring Full Stack Developer | Java • PHP • SQL • Web Dev
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+PHP+%7C+SQL+%7C+DSA;Building+clean+and+scalable+applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+PHP+%7C+SQL+%7C+DSA;Building+clean+and+scalable+applications!" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/Rakeshmerala16" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mrakesh44586" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rakeshmerala16@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<style>
+  @keyframes wave {
+    0% { transform: rotate(  0.0deg); }
+    15% { transform: rotate( 14.0deg); }
+    30% { transform: rotate(-8.0deg); }
+    40% { transform: rotate(14.0deg); }
+    50% { transform: rotate(-4.0deg); }
+    60% { transform: rotate(10.0deg); }
+    70% { transform: rotate( 0.0deg); }
+    100% { transform: rotate( 0.0deg); }
+  }
+
+  @keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  h1 {
+    background-size: 200% 200%;
+  }
+</style>
+
 
 ---
 
@@ -71,38 +118,47 @@
   </a>
 </p>
 
-<style>
-  p a img:hover {
-    transform: scale(1.2);
-    filter: drop-shadow(0 0 12px #ffffff);
-  }
-</style>
 
 ---
 
-## 📂 Projects Showcase
+## 📂 Featured Projects
 
-- 🍽 **Food Waste Management System**  
-  Connects food donors and NGOs — `PHP + MySQL + Bootstrap`
-
-- 💊 **Medicine Shop Automation**  
-  Pharmacy management desktop app — `Java + MySQL`
-
-- 🔍 **Fake Job Prediction (ML)**  
-  Python model to detect fake job postings
-
-- ⌨️ **Key Logger using Python**  
-  Educational keylogger built using Python
-
-📌 [Explore more projects »](https://github.com/Rakeshmerala16?tab=repositories)
+<table>
+<tr>
+  <td align="center" width="200">
+    <a href="https://github.com/Rakeshmerala16/Food-Waste-Management" target="_blank" rel="noreferrer">
+      <img src="https://media.giphy.com/media/3orieTnQfz6Nt7E0xy/giphy.gif" alt="Food Waste Management" width="100" />
+      <br>Food Waste Management System
+    </a>
+  </td>
+  <td align="center" width="200">
+    <a href="https://github.com/Rakeshmerala16/Medicine-Shop-Automation" target="_blank" rel="noreferrer">
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Medicine Shop Automation" width="100" />
+      <br>Medicine Shop Automation
+    </a>
+  </td>
+  <td align="center" width="200">
+    <a href="https://github.com/Rakeshmerala16/Fake-Job-Prediction" target="_blank" rel="noreferrer">
+      <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Fake Job Prediction" width="100" />
+      <br>Fake Job Prediction (ML)
+    </a>
+  </td>
+  <td align="center" width="200">
+    <a href="https://github.com/Rakeshmerala16/KeyLogger" target="_blank" rel="noreferrer">
+      <img src="https://media.giphy.com/media/l3vR6EYfR9b4T6v7S/giphy.gif" alt="Key Logger" width="100" />
+      <br>Key Logger using Python
+    </a>
+  </td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakeshmerala16&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmerala16&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakeshmerala16&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmerala16&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -110,13 +166,19 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:rakeshmerala16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Rakeshmerala16"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/mrakesh44586" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://funny-creponne-0be43f.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0be43f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-</p>
+  <a href="mailto:rakeshmerala16@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rakeshmerala16" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/mrakesh44586" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://funny-creponne-0be43f.netlify.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0be43f?style=for-the-badge&logo=netlify
 
----
+
 
 > ⚡ “Consistency and curiosity fuel my learning every day.”
 

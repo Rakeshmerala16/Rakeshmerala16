@@ -22,18 +22,62 @@
 
 #### 👨‍💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql" alt="Languages" />
+  <a href="https://www.java.com" target="_blank" title="Java">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" style="filter: drop-shadow(0 0 6px #f89820); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://www.php.net" target="_blank" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" style="filter: drop-shadow(0 0 6px #777bb3); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" style="filter: drop-shadow(0 0 6px #f0db4f); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" style="filter: drop-shadow(0 0 6px #e44d26); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" style="filter: drop-shadow(0 0 6px #264de4); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="filter: drop-shadow(0 0 6px #00758f); transition: transform 0.3s ease;" />
+  </a>
 </p>
 
 #### 🧰 Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,git,vscode,netlify" alt="Frameworks and Tools" />
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50" style="filter: drop-shadow(0 0 6px #7952b3); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://git-scm.com" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="filter: drop-shadow(0 0 6px #f05032); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" style="filter: drop-shadow(0 0 6px #007acc); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://www.netlify.com" target="_blank" title="Netlify">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" style="filter: drop-shadow(0 0 6px #00c7b7); transition: transform 0.3s ease;" />
+  </a>
 </p>
 
 #### 🌱 Currently Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Currently Learning" />
+  <a href="https://reactjs.org" target="_blank" title="React">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="filter: drop-shadow(0 0 6px #61dafb); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" style="filter: drop-shadow(0 0 6px #539e43); transition: transform 0.3s ease;" />
+  </a>
+  <a href="https://www.mongodb.com" target="_blank" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="filter: drop-shadow(0 0 6px #47a248); transition: transform 0.3s ease;" />
+  </a>
 </p>
+
+<style>
+  p a img:hover {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 12px #ffffff);
+  }
+</style>
+
 ---
 
 ## 📂 Projects Showcase

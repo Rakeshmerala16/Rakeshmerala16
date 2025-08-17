@@ -125,7 +125,7 @@
   <a href="mailto:rakeshmerala16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Rakeshmerala16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/mrakesh44586" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://funny-creponne-0be43f.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0be43f?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-rakesh16.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0be43f?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---

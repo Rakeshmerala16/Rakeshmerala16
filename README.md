@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+PHP+%7C+SQL+%7C+DSA;Building+clean+and+scalable+applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+SQL+%7C+DSA;Building+clean+and+scalable+applications!" alt="Typing SVG" />
 </p>
 
 <p align="center">

@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Aspiring Full Stack Developer | Java • PHP • SQL • Web Dev
+  Aspiring Full Stack Developer | Java • MERN • Web Dev • Databases
 </h3>
 
 <p align="center">

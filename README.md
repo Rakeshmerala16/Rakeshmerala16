@@ -32,89 +32,157 @@
 
 ### 👨‍💻 Languages
 
-<p align="center">
-  <a href="https://www.java.com" target="_blank" title="Java">
-    <img src="https://skillicons.dev/icons?i=java" width="50" height="50" /><br>Java
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" title="PHP">
-    <img src="https://skillicons.dev/icons?i=php" width="50" height="50" /><br>PHP
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" /><br>JavaScript
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" /><br>HTML5
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" /><br>CSS3
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.php.net" target="_blank">
+        <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚙️ Frameworks & Libraries
 
-<p align="center">
-  <a href="https://reactjs.org" target="_blank" title="React">
-    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" /><br>React
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /><br>Node.js
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" title="Express.js">
-    <img src="https://skillicons.dev/icons?i=express" width="50" height="50" /><br>Express.js
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org" target="_blank" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" /><br>Next.js
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" /><br>Tailwind CSS
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vitejs.dev" target="_blank" title="Vite">
-    <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" /><br>Vite
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" /><br>Bootstrap
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://reactjs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="100">
+      <a href="https://nextjs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="100">
+      <a href="https://tailwindcss.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <a href="https://vitejs.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="100">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
 
-<p align="center">
-  <a href="https://www.mysql.com" target="_blank" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" /><br>MySQL
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" /><br>PostgreSQL
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com" target="_blank" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /><br>MongoDB
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧰 Tools & Platforms
 
-<p align="center">
-  <a href="https://vercel.com" target="_blank" title="Vercel">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" /><br>Vercel
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com" target="_blank" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" /><br>Git
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" /><br>GitHub
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com" target="_blank" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br>VS Code
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.netlify.com" target="_blank" title="Netlify">
-    <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" /><br>Netlify
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://vercel.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
+      </a>
+      <br>Vercel
+    </td>
+    <td align="center" width="100">
+      <a href="https://git-scm.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <a href="https://github.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <a href="https://code.visualstudio.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.netlify.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" alt="Netlify" />
+      </a>
+      <br>Netlify
+    </td>
+  </tr>
+</table>
 
 ---
 
